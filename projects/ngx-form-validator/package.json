@@ -1,0 +1,36 @@
+{
+  "name": "ngx-form-validator",
+  "version": "0.0.2",
+  "peerDependencies": {
+    "@angular/common": "^7.1.0",
+    "@angular/core": "^7.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlexandrTyo/ngx-form-validator.git"
+  },
+  "author": {
+    "name": "Tomkin Olexandr",
+    "email": "alextyomk@gmail.com"
+  },
+  "keywords": [
+    "angular",
+    "form-validator",
+    "form",
+    "validator",
+    "angular7",
+    "ngx",
+    "ng4",
+    "ng5",
+    "ng6"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e"
+  }
+}
